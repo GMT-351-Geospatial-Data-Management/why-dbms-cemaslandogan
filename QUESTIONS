@@ -1,0 +1,26 @@
+What kind of spatial and thematic data you store?
+Raster height, vector data, 3D geographic data are available in our
+repositories. Raster height, 3D geographic data are stored on ArcGIS servers, and vector data are stored on PostgreSQL, PostGIS, MSQL servers.
+
+Do you use a DBMS? If so, which one(s)?
+ Yes we use DBMS.
+
+ Is it a relational database? If so how many tables do you have?
+We use MSQL and PostgreSQL relational databases.
+
+If so how many tables do you have?
+We have too many tables. There is a separate table  for each project.
+
+Why do you think the use of DBMS is important? What is the main benefit to your operation/product/daily use?
+DBMS allows us to organize and collect our own data. It facilitates the management of data, enables us to query the data.
+It transforms the data from a dispersed structure to a central structure. Thanks to the History, the changes made by the employees are visible.
+
+What do you think is the main source of trouble in using a DBMS?
+If you define the system and relational structures well, you will not encounter any problems.
+We do the design part (Database First) part carefully. We do not throw data directly into it, we create tables.
+
+Assume you have a team of Geomatics Engineers. Consider that employee A has very good skills in databases and programming
+ and employee B does not possess these skills. Considering that you have the financial freedom and that
+ you paying X TL to employee B; how much would you pay to employee A?
+
+I would pay employee A 1.5 or 2 times the amount of money I paid employee B.

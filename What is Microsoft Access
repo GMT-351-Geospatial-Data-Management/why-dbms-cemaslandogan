@@ -1,0 +1,31 @@
+Microsoft Access is a database management system (DBMS) for storing and managing data.
+
+Access is part of the Microsoft 365 suite and is made for business and enterprise users.
+While both contain tracking data, Access and Excel are very different programs.
+Microsoft Access is a member of the Microsoft 365 family of applications and is a powerful productivity tool made for business and enterprise users.
+Much like Microsoft Excel, Access lets you view and edit data. However, Access is more powerful than Excel and can handle much more data at once.
+
+HOW TO USE MİCROSOFT ACCESS:
+TABLES: Access stores its data in tables. You can create a single
+database containing all the data for the entire project - this is often referred to as a "flat" database.
+
+RELATIONAL DATABASES: It is almost always easier to create many
+tables, each containing elements of data that must be tracked for a project (for example, a business might maintain separate tables for
+product data, orders, customers, and shipping information). Each of  the tables can be related and linked to each other - this is called a
+relational database, and this allows developers to create many relatively simple databases and associate them with each other.
+
+FORMS: Database developers often create forms that allow users to
+enter information into the database without using a spreadsheet.
+By eliminating the need to enter data into a spreadsheet-like table, there is
+much less chance for data entry error.
+
+QUERY: Queries are another common element in Access databases.
+The program supports complex queries to find information in the database, which can be important when the database contains thousands of entries.
+
+REPORTS: Access allows users to quickly and easily create custom reports.
+The Report Wizard makes it easy to sort, group, and label data for easy printing and sharing.
+Taken together, these components allow businesses and organizations to manage and understand the vast amounts of data they need to store.
+
+For example, a business might use Access to track its inventory
+and sales, while a school might use Access to track its students, personal information, grades, performance, coursework, and teacher data.
+Access is available for certain projects, such as the management of coworkers, tasks, achievements, deadlines, and follow-up activities.

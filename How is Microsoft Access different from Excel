@@ -1,0 +1,8 @@
+Both Microsoft Excel and Access can be used to store data, so they may look similar. But in reality they are quite different.
+
+Excel is a spreadsheet program primarily used for individual projects and for doing short calculations. Most Excel users only work with a
+few dozen to a few hundred data cells at a time. Excel is great for graphing and charting these calculations and data points.
+
+Microsoft Access, on the other hand, was built to store and manage huge amounts of data in a way that makes it easy to retrieve and use
+in different applications. Access databases are manipulated with pre-made forms and queries, while Excel users type directly into their
+spreadsheets. Most businesses also connect Access to other apps, so when those other apps create data, it's automatically imported into Access.
